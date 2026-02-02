@@ -2,7 +2,6 @@ baseURL = 'localhost'
 languageCode = 'en-us'
 title = 'Raw Memory'
 theme = 'hermit-v2'
-ignoreLogs= ['warning-goldmark-raw-html']
 
 [caches]
   [caches.images]
