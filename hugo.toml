@@ -7,6 +7,10 @@ theme = 'hermit-v2'
   [caches.images]
     dir = ':cacheDir/images'
 
+[module]
+  [[module.imports]]
+    path = "github.com/1bl4z3r/hermit-v2"
+
 [menu]
   [[menu.main]]
     identifier = "posts"
