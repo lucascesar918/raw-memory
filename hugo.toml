@@ -1,0 +1,22 @@
+baseURL = 'localhost'
+languageCode = 'en-us'
+title = 'Raw Memory'
+theme = 'hermit-v2'
+ignoreLogs= ['warning-goldmark-raw-html']
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about-me"
+    name = "About Me"
+    url = "/about/"
+
+  [[menu.main]]
+    identifier = "about-raw-memory"
+    name = "What's this about?"
+    url = "/posts/about-raw-memory/"
