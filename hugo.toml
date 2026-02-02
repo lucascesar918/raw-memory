@@ -4,6 +4,10 @@ title = 'Raw Memory'
 theme = 'hermit-v2'
 ignoreLogs= ['warning-goldmark-raw-html']
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [menu]
   [[menu.main]]
     identifier = "posts"
