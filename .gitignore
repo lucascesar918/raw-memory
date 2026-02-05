@@ -1,0 +1,5 @@
+*.lock
+*.sum
+public
+resources
+themes
