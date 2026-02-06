@@ -8,7 +8,7 @@ tags:
   - untagged
 ---
 
-# Allocating Raw Memory
+## Allocating Raw Memory
 
 Every developer knows the specific frustration of solving a complex, obscure technical problem—spending hours reading documentation and debugging segmentation faults—only to encounter the exact same problem six months later and realize they have completely forgotten the solution.
 
