@@ -34,5 +34,5 @@ Environment and automation
 ### Contact Me
 
 - [GitHub](https://www.github.com/lucascesar918)
-- E-mail: _lc.freitas@unesp.br_
+- E-mail: _lc.freitas+raw-memory@unesp.br_
 
